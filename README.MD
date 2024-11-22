@@ -26,6 +26,7 @@
 ## Challenge
 - [ ] Two or more accounts management. (might limit to five bc I dunno ;) )
 - [ ] Using session or something like cookie to check that if user still in login state when they open this app it should appear in all post page.
+- [ ] Try build app from Strapi that can record image on db. (Try with local first)
 
 ## Idea
 - Record text and image
