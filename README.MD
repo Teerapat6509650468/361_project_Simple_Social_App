@@ -18,3 +18,7 @@
 - [ ] auth
 ## Proto
 ![proto](./ดีไซน์ที่ยังไม่ได้ตั้งชื่อ.png)
+
+## TO Myself
+- [ ] Review Recycle
+- [ ] Integrate DB using Strapi (Probably today or maybe tomorrow since today we have to do requirement)
