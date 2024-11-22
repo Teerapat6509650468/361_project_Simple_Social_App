@@ -32,3 +32,4 @@
 - Record text and image
 - Can use with multiple account
 - Have option to show all post from every account (might've to do something like getAll() )
+- Request sent with token on local to backend for checking authorize
