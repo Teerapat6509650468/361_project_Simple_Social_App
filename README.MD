@@ -22,3 +22,7 @@
 ## TO Myself
 - [ ] Review Recycle
 - [ ] Integrate DB using Strapi (Probably today or maybe tomorrow since today we have to do requirement)
+
+## Challenge
+- [ ] Two or more accounts management.
+- [ ] Using session or something like cookie to check that if user still in login state when they open this app it should appear in all post page.
