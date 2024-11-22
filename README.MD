@@ -26,3 +26,8 @@
 ## Challenge
 - [ ] Two or more accounts management.
 - [ ] Using session or something like cookie to check that if user still in login state when they open this app it should appear in all post page.
+
+## Idea
+- Record text and image
+- Can use with multiple account
+- Have option to show all post from every account (might've to do something like getAll() )
